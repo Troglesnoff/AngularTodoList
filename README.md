@@ -1,2 +1,0 @@
-# AngularTodoList
-Created with CodeSandbox
